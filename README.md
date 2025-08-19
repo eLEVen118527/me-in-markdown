@@ -1,4 +1,6 @@
 # me-in-markdown
+
+
 ## Introduction
   Hi, my name is Lev Gilady. I'm in 10th grade period 4. Im not the biggest fan of computer science but I find it pretty interesting. 
 I'm about to turn 16 next month and I'm working on getting a drivers license. I have an appointment on september 29 for a learners permit test. Although I'll aleady be 16 by then. I'm really excited to drive myself places and not be stuck at home so much even though I have to wait until I'm 18 to drives my friends around I believe. 
@@ -13,3 +15,4 @@ I want to be pretty financially comfortable when I'm older and I want to have a 
 This is my playlist:(https://open.spotify.com/playlist/1VZJNOeJ8VpZnBhVqMhcKl?si=siqTqZkUQVeBUF5bKitmBA&pi=mt7dh305RDuWK)
 ## My College/MoodBoard
 ![my college](https://docs.google.com/presentation/d/1x9c_ENEDTSdLnfjjDWTnt3IFeJaZR01KgHaRIjIkAOQ/edit?slide=id.p#slide=id.p) 
+>>>>>>> ea0bafa832c00175c2718841b8a657bfb209efa0
