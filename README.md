@@ -14,5 +14,4 @@ I want to be pretty financially comfortable when I'm older and I want to have a 
 ## My Playlist
 This is my playlist:(https://open.spotify.com/playlist/1VZJNOeJ8VpZnBhVqMhcKl?si=siqTqZkUQVeBUF5bKitmBA&pi=mt7dh305RDuWK)
 ## My College/MoodBoard
-![my college](https://docs.google.com/presentation/d/1x9c_ENEDTSdLnfjjDWTnt3IFeJaZR01KgHaRIjIkAOQ/edit?slide=id.p#slide=id.p) 
->>>>>>> ea0bafa832c00175c2718841b8a657bfb209efa0
+<img src"Untitled presentation (1).png">
